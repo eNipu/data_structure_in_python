@@ -1,2 +1,2 @@
-# data_structure_in_python
+# DS and Algo in Python: Practices
 Practice of data structures and algorithms in Python
